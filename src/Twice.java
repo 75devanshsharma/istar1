@@ -6,6 +6,6 @@ public class Twice extends Thread{
   Twice t1=new Twice();  
   t1.start();  
   t1.start();
-  t3.start();
+  
  }  
 }  
