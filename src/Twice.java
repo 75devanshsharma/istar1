@@ -5,6 +5,7 @@ public class Twice extends Thread{
  public static void main(String args[]){  
   Twice t1=new Twice();  
   t1.start();  
-  t1.start();  
+  t1.start();
+  t3.start();
  }  
 }  
