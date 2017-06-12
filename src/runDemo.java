@@ -20,6 +20,7 @@ class runDemo extends Thread
   runDemo t2=new runDemo();  
    
   t1.start();  
-  t2.start();  
+  t2.start(); 
+  t3.start();
  }  
 }  
